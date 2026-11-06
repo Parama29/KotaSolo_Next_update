@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "name": "Masjid Agung Kraton Surakarta",
+        "category": "Wisata Religi",
+        "description": "Masjid jami Keraton Kasunanan (1763–1768); pusat ibadah Jumat/Id dan tradisi keraton seperti Sekaten, Grebeg, dan Maulid.",
+        "tags": [
+            "masjid",
+            "kraton",
+            "islam",
+            "keraton",
+            "sejarah",
+            "religi"
+        ],
+        "latitude": -7.5744033,
+        "longitude": 110.8265936,
+        "image_url": "assets/images/masjid-agung.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur AC Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Masjid Al Wustho Mangkunegaran",
+        "category": "Wisata Religi",
+        "description": "Masjid Mangkunegaran di barat Pura; dirancang Herman Thomas Karsten, dibuka untuk umum 1924, kini dikelola Kemenag dan masyarakat.",
+        "tags": [
+            "masjid",
+            "mangkunegaran",
+            "islam",
+            "pura",
+            "religi"
+        ],
+        "latitude": -7.5654454,
+        "longitude": 110.8214387,
+        "image_url": "assets/images/masjid-al-wustho.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Solo Balapan + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Masjid Raya Sheikh Zayed Solo Surakarta",
+        "category": "Wisata Religi",
+        "description": "Replika Sheikh Zayed Grand Mosque Abu Dhabi, hibah dari UEA; diresmikan 2022, kapasitas 10.000, memadukan arsitektur Timur Tengah dan motif batik.",
+        "tags": [
+            "masjid",
+            "sheikh zayed",
+            "islam",
+            "modern",
+            "megah",
+            "religi"
+        ],
+        "latitude": -7.5549587,
+        "longitude": 110.8270355,
+        "image_url": "assets/images/masjid-raya.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Manahan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Manahan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-14rb"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Masjid Laweyan",
+        "category": "Wisata Religi",
+        "description": "Salah satu masjid tertua Solo (1546, era Pajang); dahulu tempat pemujaan Hindu Jawa lalu dialihfungsikan jadi masjid.",
+        "tags": [
+            "masjid",
+            "laweyan",
+            "islam",
+            "batik",
+            "sejarah",
+            "religi"
+        ],
+        "latitude": -7.571462,
+        "longitude": 110.792558,
+        "image_url": "assets/images/masjid-laweyan.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Vihara Dhamma Sundara",
+        "category": "Wisata Religi",
+        "description": "Vihara Buddha dan wisata budaya di Jebres; diresmikan 2002, punya candi putih beratap stupa, relief Buddha, dan patung gajah putih.",
+        "tags": [
+            "vihara",
+            "buddha",
+            "meditasi",
+            "religi",
+            "damai"
+        ],
+        "latitude": -7.5698423,
+        "longitude": 110.8487998,
+        "image_url": "assets/images/vihara-dhamma.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Jebres",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Jebres",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Pura Indraprasta",
+        "category": "Wisata Religi",
+        "description": "Pura Hindu gaya Bali di Sondakan (1986); punya Padma Sana, kain poleng, Bale Agung, dan Bale Gong; pintu tengah dibuka saat Nyepi.",
+        "tags": [
+            "pura",
+            "hindu",
+            "bali",
+            "religi",
+            "sakral"
+        ],
+        "latitude": -7.5653241,
+        "longitude": 110.7871019,
+        "image_url": "assets/images/pura-indraprastra.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "TITD Poo An Kiong",
+        "category": "Wisata Religi",
+        "description": "Klenteng Tiga Tradisi di barat Pasar Klewer (1828–1881); cagar budaya 2013 dan mencerminkan akulturasi Tionghoa-Jawa.",
+        "tags": [
+            "kelenteng",
+            "tri dharma",
+            "tionghoa",
+            "religi",
+            "budaya"
+        ],
+        "latitude": -7.5748026,
+        "longitude": 110.8228019,
+        "image_url": "assets/images/klenteng-poo.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Gereja Kristen Jawa Margoyudan",
+        "category": "Wisata Religi",
+        "description": "Gereja Kristen Jawa yang berdiri 1916; gedung kapasitas 400 diresmikan 1921 dan jadi cikal bakal jemaat GKJ di sekitar Solo.",
+        "tags": [
+            "gereja",
+            "kristen",
+            "jawa",
+            "sejarah",
+            "religi"
+        ],
+        "latitude": -7.5583272,
+        "longitude": 110.8295303,
+        "image_url": "assets/images/gereja-jawa.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Manahan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-14rb"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Gereja Katolik Paroki Santo Petrus, Purwosari Gendengan",
+        "category": "Wisata Religi",
+        "description": "Gereja Katolik tertua kedua Solo; diberkati 1940, jadi paroki mandiri 1942, sempat terdampak pendudukan Jepang.",
+        "tags": [
+            "gereja",
+            "katolik",
+            "santo petrus",
+            "kolonial",
+            "religi"
+        ],
+        "latitude": -7.5651094,
+        "longitude": 110.8062759,
+        "image_url": "assets/images/gereja-st.petrus.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Purwosari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Purwosari + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Gereja Katolik Paroki Santo Antonius Padua, Purbayan",
+        "category": "Wisata Religi",
+        "description": "Gereja Katolik tertua Solo; bangunan kolonial 1916 dan induk bagi banyak paroki di Solo Raya.",
+        "tags": [
+            "gereja",
+            "katolik",
+            "santo antonius",
+            "purbayan",
+            "religi"
+        ],
+        "latitude": -7.5687813,
+        "longitude": 110.8298146,
+        "image_url": "assets/images/gereja-st.antonius.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Gereja Katolik Paroki Santa Perawan Maria Regina, Purbowardayan",
+        "category": "Wisata Religi",
+        "description": "Dibangun 1956–1961; kapasitas 2.000+; arsitektur salib dengan pendopo terbuka yang dikenal sebagai konsep “Kandang Sapi”.",
+        "tags": [
+            "gereja",
+            "katolik",
+            "maria regina",
+            "modern",
+            "religi"
+        ],
+        "latitude": -7.5592515,
+        "longitude": 110.8353547,
+        "image_url": "assets/images/gereja-maria.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-14rb"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Astana Oetara (Museum & Situs Cagar Budaya K.G.P.A.A. Mangkunegara VI)",
+        "category": "Wisata Religi",
+        "description": "Museum dan situs cagar budaya terkait K.G.P.A.A. Mangkunegara VI, bagian dari warisan Mangkunegaran di Solo utara.",
+        "tags": [
+            "astana",
+            "mangkunegaran",
+            "makam",
+            "museum",
+            "cagar budaya",
+            "religi"
+        ],
+        "latitude": -7.5473069,
+        "longitude": 110.8237853,
+        "image_url": "assets/images/astana-oetara.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Legi-Mangkunegaran",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 11rb-17rb"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Langgar Merdeka Laweyan",
+        "category": "Wisata Religi",
+        "description": "Langgar (musala) bersejarah di Kampung Laweyan yang lekat dengan tradisi saudagar batik dan sejarah pergerakan di Laweyan.",
+        "tags": [
+            "langgar",
+            "laweyan",
+            "islam",
+            "batik",
+            "sejarah",
+            "religi"
+        ],
+        "latitude": -7.568764,
+        "longitude": 110.7934263,
+        "image_url": "assets/images/langgar-merdeka-laweyan.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 13rb-19rb"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Pasar Klewer",
+        "category": "Wisata Belanja",
+        "description": "Pusat grosir batik dan tekstil terbesar di Solo, bersebelahan dengan Keraton Kasunanan.",
+        "tags": [
+            "pasar",
+            "batik",
+            "tekstil",
+            "grosir",
+            "oleh-oleh",
+            "belanja"
+        ],
+        "latitude": -7.5753702,
+        "longitude": 110.8267448,
+        "image_url": "assets/images/pasar-klewer.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Pasar Gede Hardjonagoro",
+        "category": "Wisata Belanja",
+        "description": "Pasar tradisional ikonik rancangan Thomas Karsten, terkenal dengan jajanan khas Solo dan dekat kawasan Pecinan.",
+        "tags": [
+            "pasar",
+            "tradisional",
+            "kuliner",
+            "jajanan",
+            "karsten",
+            "belanja"
+        ],
+        "latitude": -7.569377,
+        "longitude": 110.8315563,
+        "image_url": "assets/images/pasar-gede-hardjonagoro.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Pasar Gede",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 8rb-14rb"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Pasar Legi",
+        "category": "Wisata Belanja",
+        "description": "Pasar tradisional besar di utara Mangkunegaran, pusat kebutuhan pokok, sayur, dan jajanan pasar.",
+        "tags": [
+            "pasar",
+            "tradisional",
+            "sembako",
+            "jajanan",
+            "belanja"
+        ],
+        "latitude": -7.5626552,
+        "longitude": 110.8247223,
+        "image_url": "assets/images/pasar-legi.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "PASAR JONGKE",
+        "category": "Wisata Belanja",
+        "description": "Pasar tradisional di kawasan Laweyan, cocok untuk merasakan kehidupan pasar warga lokal.",
+        "tags": [
+            "pasar",
+            "tradisional",
+            "laweyan",
+            "lokal",
+            "belanja"
+        ],
+        "latitude": -7.5675534,
+        "longitude": 110.7892989,
+        "image_url": "assets/images/pasar-jongke.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 13rb-19rb"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Pasar Triwindu",
+        "category": "Wisata Belanja",
+        "description": "Pasar barang antik dan lawasan dekat Pura Mangkunegaran; tempat berburu kerajinan, perabot, dan koleksi jadul.",
+        "tags": [
+            "pasar",
+            "antik",
+            "barang lawas",
+            "kerajinan",
+            "mangkunegaran",
+            "belanja"
+        ],
+        "latitude": -7.5691764,
+        "longitude": 110.8225383,
+        "image_url": "assets/images/pasar-triwindu.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Jayengan Kampoeng Permata",
+        "category": "Wisata Belanja",
+        "description": "Sentra perhiasan dan batu permata di kawasan Jayengan, Solo.",
+        "tags": [
+            "permata",
+            "perhiasan",
+            "batu mulia",
+            "jayengan",
+            "belanja"
+        ],
+        "latitude": -7.575797,
+        "longitude": 110.8202906,
+        "image_url": "assets/images/jayengan-kampoeng-permata.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur AC Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Batik Keris Heritage",
+        "category": "Wisata Belanja",
+        "description": "Gerai dan galeri batik heritage di Jalan Slamet Riyadi; tempat belanja batik sekaligus mengenal sejarah batik Solo.",
+        "tags": [
+            "batik",
+            "heritage",
+            "galeri",
+            "oleh-oleh",
+            "belanja",
+            "experience",
+            "sejarah"
+        ],
+        "latitude": -7.5642782,
+        "longitude": 110.7992539,
+        "image_url": "assets/images/batik-keris-heritage.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Purwosari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Purwosari + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "House Of Danar Hadi",
+        "category": "Wisata Belanja",
+        "description": "Galeri dan museum batik Danar Hadi di bekas rumah saudagar bergaya indis; koleksi batik kuno dan butik batik.",
+        "tags": [
+            "batik",
+            "museum",
+            "danar hadi",
+            "galeri",
+            "belanja",
+            "experience",
+            "sejarah"
+        ],
+        "latitude": -7.5687523,
+        "longitude": 110.8163603,
+        "image_url": "assets/images/house-of-danar-hadi.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Kampung Batik Laweyan",
+        "category": "Wisata Belanja",
+        "description": "Kampung sentra batik tertua di Solo dengan rumah juragan batik, galeri, dan workshop.",
+        "tags": [
+            "batik",
+            "laweyan",
+            "kampung wisata",
+            "workshop",
+            "belanja",
+            "experience"
+        ],
+        "latitude": -7.5700737,
+        "longitude": 110.7977996,
+        "image_url": "assets/images/kampung-batik-laweyan.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Kampung Batik Kauman",
+        "category": "Wisata Belanja",
+        "description": "Kampung batik di dekat Keraton dengan rumah-rumah batik tulis dan cap serta lorong-lorong kampung bersejarah.",
+        "tags": [
+            "batik",
+            "kauman",
+            "kampung wisata",
+            "keraton",
+            "belanja",
+            "experience"
+        ],
+        "latitude": -7.5733936,
+        "longitude": 110.8263087,
+        "image_url": "assets/images/kampung-batik-kauman.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Sentra IKM Mebel Sri kayu",
+        "category": "Wisata Belanja",
+        "description": "Sentra industri kecil menengah mebel dan furnitur kayu di Solo.",
+        "tags": [
+            "mebel",
+            "furnitur",
+            "kayu",
+            "ikm",
+            "belanja"
+        ],
+        "latitude": -7.5567312,
+        "longitude": 110.8329099,
+        "image_url": "assets/images/sentra-ikm-mebel-sri-kayu.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Solo Paragon Mall",
+        "category": "Wisata Belanja",
+        "description": "Pusat perbelanjaan modern di Jalan Dr. Radjiman dengan pilihan ritel, kuliner, dan hiburan.",
+        "tags": [
+            "mall",
+            "modern",
+            "kuliner",
+            "hiburan",
+            "belanja"
+        ],
+        "latitude": -7.5624118,
+        "longitude": 110.8100122,
+        "image_url": "assets/images/solo-paragon-mall.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Manahan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Manahan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 11rb-17rb"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "NEO Solo Grand Mall",
+        "category": "Wisata Belanja",
+        "description": "Pusat perbelanjaan modern di Solo dengan pilihan ritel, kuliner, dan hiburan keluarga.",
+        "tags": [
+            "mall",
+            "modern",
+            "kuliner",
+            "hiburan",
+            "belanja"
+        ],
+        "latitude": -7.5667758,
+        "longitude": 110.8074996,
+        "image_url": "assets/images/neo-solo-grand-mall.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Purwosari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Purwosari + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 11rb-17rb"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Solo Square Mall",
+        "category": "Wisata Belanja",
+        "description": "Pusat perbelanjaan di kawasan Solo Baru/Laweyan sisi barat dengan ritel dan kuliner.",
+        "tags": [
+            "mall",
+            "modern",
+            "kuliner",
+            "keluarga",
+            "belanja"
+        ],
+        "latitude": -7.5610763,
+        "longitude": 110.7884408,
+        "image_url": "assets/images/solo-square-mall.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 13rb-19rb"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Solo Safari",
+        "category": "Wisata Experience",
+        "description": "Kebun binatang di tepi Bengawan Solo, Jebres; wisata satwa dan edukasi keluarga hasil revitalisasi Taman Satwa Taru Jurug.",
+        "tags": [
+            "kebun binatang",
+            "satwa",
+            "keluarga",
+            "edukasi",
+            "bengawan solo",
+            "experience"
+        ],
+        "latitude": -7.5643553,
+        "longitude": 110.8586618,
+        "image_url": "assets/images/solo-safari.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Jebres",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Jebres",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Taman Balekambang Surakarta",
+        "category": "Wisata Experience",
+        "description": "Taman rekreasi peninggalan Mangkunegara VII (1921) dengan kolam, area hijau, patung, dan panggung terbuka.",
+        "tags": [
+            "taman",
+            "mangkunegaran",
+            "rekreasi",
+            "keluarga",
+            "alam",
+            "experience"
+        ],
+        "latitude": -7.5535395,
+        "longitude": 110.8099885,
+        "image_url": "assets/images/taman-balekambang-surakarta.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Manahan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Manahan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 11rb-17rb"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Gedung Wayang Orang Sriwedari",
+        "category": "Wisata Experience",
+        "description": "Gedung pertunjukan wayang orang Sriwedari; menikmati seni pertunjukan tradisional Jawa secara langsung.",
+        "tags": [
+            "wayang orang",
+            "sriwedari",
+            "pertunjukan",
+            "seni",
+            "budaya",
+            "experience"
+        ],
+        "latitude": -7.5693693,
+        "longitude": 110.8125044,
+        "image_url": "assets/images/gedung-wayang-orang-sriwedari.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Tumurun Museum",
+        "category": "Wisata Experience",
+        "description": "Museum seni swasta di pusat kota Solo dengan koleksi seni rupa dan budaya dalam bangunan bersejarah.",
+        "tags": [
+            "museum",
+            "seni",
+            "koleksi",
+            "budaya",
+            "experience"
+        ],
+        "latitude": -7.5704316,
+        "longitude": 110.8164131,
+        "image_url": "assets/images/tumurun-museum.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Tahir Solo Museum",
+        "category": "Wisata Experience",
+        "description": "Museum seni di Solo bagian timur untuk menikmati koleksi dan pameran seni.",
+        "tags": [
+            "museum",
+            "seni",
+            "koleksi",
+            "pameran",
+            "experience"
+        ],
+        "latitude": -7.5560941,
+        "longitude": 110.8495577,
+        "image_url": "assets/images/tahir-solo-museum.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Jebres",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Jebres",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 11rb-17rb"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Keraton Kasunanan Surakarta Hadiningrat",
+        "category": "Wisata Sejarah",
+        "description": "Istana Kasunanan Surakarta (berdiri 1745), pusat tradisi dan budaya Jawa dengan museum dan bangunan bersejarah.",
+        "tags": [
+            "keraton",
+            "kasunanan",
+            "istana",
+            "museum",
+            "budaya",
+            "sejarah"
+        ],
+        "latitude": -7.5777426,
+        "longitude": 110.8279099,
+        "image_url": "assets/images/keraton-kasunanan-surakarta-hadiningrat.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur AC Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Pura Mangkunegaran",
+        "category": "Wisata Sejarah",
+        "description": "Istana Mangkunegaran (1757) dengan pendopo agung, museum, dan koleksi pusaka serta kesenian.",
+        "tags": [
+            "pura",
+            "mangkunegaran",
+            "istana",
+            "pendopo",
+            "museum",
+            "sejarah"
+        ],
+        "latitude": -7.5667848,
+        "longitude": 110.8229253,
+        "image_url": "assets/images/pura-mangkunegaran.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Solo Balapan + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Loji Gandrung",
+        "category": "Wisata Sejarah",
+        "description": "Bangunan kolonial bersejarah yang kini menjadi rumah dinas Wali Kota Surakarta.",
+        "tags": [
+            "kolonial",
+            "loji",
+            "arsitektur",
+            "heritage",
+            "sejarah"
+        ],
+        "latitude": -7.5669623,
+        "longitude": 110.8095059,
+        "image_url": "assets/images/loji-gandrung.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Purwosari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Purwosari + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Gedung Djoeang 45",
+        "category": "Wisata Sejarah",
+        "description": "Gedung bersejarah peninggalan masa perjuangan kemerdekaan di Solo.",
+        "tags": [
+            "perjuangan",
+            "kemerdekaan",
+            "1945",
+            "gedung bersejarah",
+            "sejarah"
+        ],
+        "latitude": -7.5737524,
+        "longitude": 110.8322289,
+        "image_url": "assets/images/gedung-djoeang-45.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Museum Radya Pustaka",
+        "category": "Wisata Sejarah",
+        "description": "Museum tertua di Indonesia (1890) di kawasan Sriwedari; koleksi pusaka, arca, wayang, dan naskah Jawa.",
+        "tags": [
+            "museum",
+            "radya pustaka",
+            "sriwedari",
+            "koleksi",
+            "naskah",
+            "sejarah"
+        ],
+        "latitude": -7.568643,
+        "longitude": 110.814418,
+        "image_url": "assets/images/museum-radya-pustaka.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Museum Keris Nusantara",
+        "category": "Wisata Sejarah",
+        "description": "Museum yang menyimpan dan memamerkan keris dari berbagai daerah Nusantara beserta sejarah dan filosofinya.",
+        "tags": [
+            "museum",
+            "keris",
+            "pusaka",
+            "budaya",
+            "sejarah"
+        ],
+        "latitude": -7.5691921,
+        "longitude": 110.8109919,
+        "image_url": "assets/images/museum-keris-nusantara.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Sriwedari",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Sriwedari",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Dalem Hardjonegaran /Batik Go Tik Swan",
+        "category": "Wisata Sejarah",
+        "description": "Kediaman maestro batik Go Tik Swan (KRT Hardjonagoro), kini dikenal sebagai rumah budaya dan batik.",
+        "tags": [
+            "dalem",
+            "batik",
+            "go tik swan",
+            "heritage",
+            "budaya",
+            "sejarah"
+        ],
+        "latitude": -7.5768833,
+        "longitude": 110.8220243,
+        "image_url": "assets/images/dalem-hardjonegaran-batik-go-tik-swan.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Dalem Joyokusuman",
+        "category": "Wisata Sejarah",
+        "description": "Dalem (kediaman bangsawan) bersejarah di sisi selatan kawasan Keraton Surakarta.",
+        "tags": [
+            "dalem",
+            "bangsawan",
+            "keraton",
+            "heritage",
+            "sejarah"
+        ],
+        "latitude": -7.5811553,
+        "longitude": 110.8238604,
+        "image_url": "assets/images/dalem-joyokusuman.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur AC Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 10rb-16rb"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Ndalem Priyosuhartan",
+        "category": "Wisata Sejarah",
+        "description": "Rumah tradisional Jawa bersejarah di kawasan Laweyan.",
+        "tags": [
+            "ndalem",
+            "laweyan",
+            "rumah jawa",
+            "heritage",
+            "sejarah"
+        ],
+        "latitude": -7.5684477,
+        "longitude": 110.7976673,
+        "image_url": "assets/images/ndalem-priyosuhartan.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Laweyan",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur A Gading-Laweyan",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 12rb-18rb"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Monumen Pers Nasional",
+        "category": "Wisata Sejarah",
+        "description": "Museum dan monumen pers Indonesia, menempati bekas Societeit Sasana Soeka (1918); menyimpan koleksi surat kabar dan arsip pers.",
+        "tags": [
+            "museum",
+            "pers",
+            "jurnalistik",
+            "sejarah",
+            "arsip"
+        ],
+        "latitude": -7.5650984,
+        "longitude": 110.818085,
+        "image_url": "assets/images/monumen-pers-nasional.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 1 Palur-Mangkunegaran",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "krl",
+                "description": "Stasiun Solo Balapan + jalan kaki",
+                "fare": "Rp 8.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Kampung Wisata Budaya Baluwarti",
+        "category": "Wisata Sejarah",
+        "description": "Kampung di dalam benteng Keraton Kasunanan; menyusuri permukiman abdi dalem dan suasana budaya Jawa.",
+        "tags": [
+            "kampung wisata",
+            "baluwarti",
+            "keraton",
+            "budaya",
+            "sejarah"
+        ],
+        "latitude": -7.5756088,
+        "longitude": 110.8247214,
+        "image_url": "assets/images/kampung-wisata-budaya-baluwarti.png",
+        "options": [
+            {
+                "mode": "bst",
+                "description": "Koridor 2 Kartasura-Gladag",
+                "fare": "Rp 3.700"
+            },
+            {
+                "mode": "angkot",
+                "description": "Jalur AC Pasar Gede-Gladag",
+                "fare": "Rp 5.000"
+            },
+            {
+                "mode": "ojol",
+                "description": "Dari lokasi Anda",
+                "fare": "Rp 9rb-15rb"
+            }
+        ]
+    }
+]
