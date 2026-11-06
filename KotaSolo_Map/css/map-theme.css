@@ -1,0 +1,112 @@
+/* ============================================================
+   Solo Explorer — Design Tokens
+   ============================================================ */
+
+   
+   :root,
+   [data-theme="dark"] {
+     --bg:            #241916;
+     --surface:       #30221d;
+     --elevated:      #3a2821;
+     --primary:       #a84b36;
+     --primary-hover: #bf5a42;
+     --secondary:     #c49a58;
+     --text:          #f2eadb;
+     --text-muted:    #c8b9a7;
+     --border:        rgba(242, 234, 219, 0.10);
+     --border-strong: rgba(242, 234, 219, 0.18);
+   
+     --glass-bg:      rgba(48, 34, 29, 0.72);
+     --glass-border:  rgba(242, 234, 219, 0.14);
+     --glass-blur:    16px;
+   
+     --shadow-sm: 0 1px 3px rgba(0,0,0,0.35);
+     --shadow-md: 0 4px 16px rgba(0,0,0,0.40);
+     --shadow-lg: 0 12px 40px rgba(0,0,0,0.55);
+   
+     --route-bst:  #e0713a;
+     --route-krl:  #6ba3d6;
+   
+     color-scheme: dark;
+   }
+   
+   [data-theme="light"] {
+     --bg:            #f2eadb;
+     --surface:       #fbf7ef;
+     --elevated:      #e5d8c3;
+     --primary:       #a84b36;
+     --primary-hover: #8f3e2c;
+     --secondary:     #c49a58;
+     --text:          #34231c;
+     --text-muted:    #7a5e4d;
+     --border:        rgba(52, 35, 28, 0.10);
+     --border-strong: rgba(52, 35, 28, 0.18);
+   
+     --glass-bg:      rgba(251, 247, 239, 0.78);
+     --glass-border:  rgba(52, 35, 28, 0.12);
+     --glass-blur:    16px;
+   
+     --shadow-sm: 0 1px 3px rgba(52,35,28,0.10);
+     --shadow-md: 0 4px 16px rgba(52,35,28,0.12);
+     --shadow-lg: 0 12px 40px rgba(52,35,28,0.18);
+   
+     --route-bst:  #c85a20;
+     --route-krl:  #2b6fa3;
+   
+     color-scheme: light;
+   }
+   
+   :root {
+     --font-heading: "Space Grotesk", system-ui, sans-serif;
+     --font-body:    "Plus Jakarta Sans", system-ui, sans-serif;
+   
+     --radius-sm:  6px;
+     --radius-md:  10px;
+     --radius-lg:  16px;
+     --radius-full: 9999px;
+   
+     --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+     --t-fast:   160ms;
+     --t-normal: 240ms;
+     --t-slow:   320ms;
+   }
+   
+   /* Reduced motion */
+   @media (prefers-reduced-motion: reduce) {
+     *,
+     *::before,
+     *::after {
+       animation-duration: 0.001ms !important;
+       animation-iteration-count: 1 !important;
+       transition-duration: 0.001ms !important;
+       scroll-behavior: auto !important;
+     }
+   }
+   
+   /* Leaflet theme alignment */
+   .leaflet-container {
+     background: var(--bg);
+     font-family: var(--font-body);
+   }
+   .leaflet-bar a,
+   .leaflet-bar a:hover {
+     background: var(--surface);
+     color: var(--text);
+     border-bottom-color: var(--border);
+   }
+   .leaflet-bar a:hover { background: var(--elevated); }
+   .leaflet-control-attribution {
+     background: var(--glass-bg) !important;
+     color: var(--text-muted) !important;
+     backdrop-filter: blur(var(--glass-blur));
+     border-radius: var(--radius-sm) 0 0 0;
+   }
+   .leaflet-control-attribution a { color: var(--secondary) !important; }
+   .leaflet-popup-content-wrapper {
+     background: var(--surface);
+     color: var(--text);
+     border-radius: var(--radius-md);
+     box-shadow: var(--shadow-lg);
+     border: 1px solid var(--border);
+   }
+   .leaflet-popup-tip { background: var(--surface); }

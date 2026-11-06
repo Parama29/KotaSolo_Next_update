@@ -1,0 +1,21 @@
+{
+    "name": "Solo Explorer — Peta Interaktif Surakarta",
+    "short_name": "Solo Explorer",
+    "description": "Jelajahi destinasi wisata dan transportasi umum Kota Surakarta.",
+    "start_url": "./index.php",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#241916",
+    "theme_color": "#a84b36",
+    "lang": "id",
+    "categories": ["travel", "navigation", "lifestyle"],
+    "icons": [
+      {
+        "src": "assets/icons/destination.svg",
+        "sizes": "any",
+        "type": "image/svg+xml",
+        "purpose": "any"
+      }
+    ]
+  }
